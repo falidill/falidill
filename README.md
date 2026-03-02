@@ -18,3 +18,6 @@ Selected repositories demonstrate how I:
 - Identify operational bottlenecks using analytical methods
 - Build decision-support dashboards aligned with business goals
 - Translate model outputs into actionable recommendations
+
+Background:
+M.S. Data Science | M.S. Accounting & Finance | B.S. Actuarial Science
