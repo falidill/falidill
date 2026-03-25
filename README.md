@@ -1,4 +1,4 @@
-**Fali Honutse Data & Business Intelligence Analyst | Python · SQL · Power BI · Tableau**
+**Fali Honutse Data & Operations Analyst | Python · SQL · Power BI · Tableau**
 
 I build analytics systems that turn operational data into decisions — dashboards, KPI frameworks, predictive models, and reporting pipelines across healthcare, nonprofit, and education environments.
 
